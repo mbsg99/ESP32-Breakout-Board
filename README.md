@@ -9,7 +9,9 @@ This is Adapter Breakout Board for ESP-32f ESP32 ESP-Wroom-32 Wireless Bluetooth
 # For the Gerber File, Follow and message us on
 
 YouTube: https://www.youtube.com/channel/UC8mQvRi15t0JOyzw6GYtnMA
+
 LinkedIn: https://www.linkedin.com/in/technical-avant-garde-2761261b0/
+
 Instagram: https://www.instagram.com/technical_avantgarde/
 
 # Ordering the PCBs From JLCPCB
