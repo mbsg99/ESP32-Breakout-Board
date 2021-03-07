@@ -6,6 +6,12 @@ The article is being published in collaboration with JLCPCB. It is one of the mo
 
 This is Adapter Breakout Board for ESP-32f ESP32 ESP-Wroom-32 Wireless Bluetooth Module. Adapter Board Pinboard Converter for ESP-32S ESP32S ESP32 Wireless WIFI Module 2.54mm. This is an adapter board for ESP-32S Wireless Module. It can be programmed using simple USB micro B Type. Convenient to develop and debug.
 
+# For the Gerber File, Follow and message us on
+
+YouTube: https://www.youtube.com/channel/UC8mQvRi15t0JOyzw6GYtnMA
+LinkedIn: https://www.linkedin.com/in/technical-avant-garde-2761261b0/
+Instagram: https://www.instagram.com/technical_avantgarde/
+
 # Ordering the PCBs From JLCPCB
 Full Process is shown using Screenshots Step-wise.
 
