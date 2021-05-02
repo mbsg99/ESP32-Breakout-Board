@@ -17,7 +17,7 @@ Instagram: https://www.instagram.com/technical_avantgarde/
 # Ordering the PCBs From JLCPCB
 Full Process is shown using Screenshots Step-wise.
 
-Now we have got the PCB design and it’s time to order the PCB’s. For that, you just have to go to JLCPCB.com, and click on “QUOTE NOW” button.
+Now we have got the PCB design and it’s time to order the PCB’s. For that, you just have to go to JLCPCB, and click on “QUOTE NOW” button.
 
 JLCPCB are also sponsor of this project. JLCPCB (ShenzhenJLC Electronics Co., Ltd.), is the largest PCB prototype enterprise in Chinaand a high-tech manufacturer specializing in quick PCB prototype and small-batch PCB production. You can order a minimum of 5 PCBs for just $2.
 
